@@ -1,4 +1,4 @@
-#### Self paced online MOOCS  
+#### Self paced free MOOCS  
 https://www.edx.org/course/introduction-python-fundamentals-microsoft-dev274x-0  
 https://www.edx.org/course/introduction-python-absolute-beginner-microsoft-dev236x-0  
 https://www.udacity.com/course/introduction-to-python--ud1110  
